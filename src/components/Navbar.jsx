@@ -18,10 +18,13 @@ render(){
 
       </div>
        <ul className="menu">
-       <li><Link to="#">Categories</Link></li>
-       <li><Link to="#">Platform</Link></li>
+       <li><Link to="#">Home </Link></li>
        <li><Link to="#">About</Link></li>
-       <li><Link to="#">Team</Link></li>
+       <li><Link to="#">My works</Link></li>
+       <li><Link to="#">Resume</Link></li>
+       <li><Link to="#">Blog</Link></li>
+       <li><Link to="#">Contact Me</Link></li>
+
 
        </ul>
        
